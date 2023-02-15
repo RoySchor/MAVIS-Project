@@ -1,7 +1,7 @@
 # MAVIS-Project
 #### A MAVIS AI group project for Artificial Intelligence Class at DIS Copenhagen - study abroad.
 
-A virtual board game of an agent and goal. Agents goal is to reach the assigned location with its number.
+A virtual board game of an agent and goal. Agents goal is to reach the assigned location with its corresponding number.
 - We used this board game to analyze how different algorithms are better suited to solve different problems. Given this we can see how best to train an AI to solve a given task.
 
 ## What the Code Does:
